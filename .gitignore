@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.swo
+*.pkl
+*.jpg
+*.MOV
+*_frames
+database.py
+merged_*
